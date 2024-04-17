@@ -1,6 +1,6 @@
 Negócio: Coworking
 
-Projeto: Serviço agendamento de reservas sw salas de reunião.
+Projeto: Serviço agendamento de reservas de salas de reunião.
 
 Contexto: O coworking tem dificuldade no controle de agendamentos de reservas de salas de reunião, o cliente solicitou um sistema onde seus próprios clientes internos possam verificar as salas e horários disponíveis para poderem agendar e reservar suas reuniões sem 
 precisar solicitar à recepcionista do Coworking, que até então, é a pessoa responsável por essa demanda.
