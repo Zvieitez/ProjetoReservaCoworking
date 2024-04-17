@@ -1,11 +1,11 @@
-Negócio: Coworking
+# Negócio: Coworking
 
-Projeto: Serviço agendamento de reservas de salas de reunião.
+**Projeto**: Serviço agendamento de reservas de salas de reunião.
 
-Contexto: O coworking tem dificuldade no controle de agendamentos de reservas de salas de reunião, o cliente solicitou um sistema onde seus próprios clientes internos possam verificar as salas e horários disponíveis para poderem agendar e reservar suas reuniões sem 
+**Contexto:** O coworking tem dificuldade no controle de agendamentos de reservas de salas de reunião, o cliente solicitou um sistema onde seus próprios clientes internos possam verificar as salas e horários disponíveis para poderem agendar e reservar suas reuniões sem 
 precisar solicitar à recepcionista do Coworking, que até então, é a pessoa responsável por essa demanda.
 
-Lógicas de negócio:
+**Lógicas de negócio:**
 
 •	Modo de realização: Os agendamentos deverão ser realizados via internet, pelo sistema do Coworking através da área de cliente. O cliente precisa estar logado em sua conta para verificar a disponibilidade das salas e realizar o agendamento.
 
